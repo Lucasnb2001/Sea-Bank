@@ -11,3 +11,10 @@ h1{
 .esbran{
 	color: white;
 }
+footer p a{
+	margin: 5px 15px;
+	color: black;
+}
+footer p a:Hover{
+	color: #4C5376;
+}
